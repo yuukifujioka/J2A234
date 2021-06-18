@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* div要素に対する共通指定 */
+body {
+  height: 100vh;
+  margin: 0;
+  background: url(../img/bg_dot.png) #9fd9f6;
+}
