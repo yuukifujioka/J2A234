@@ -39,7 +39,7 @@ input[type="text"],textarea{
   padding: 10px;
   border-radius: 5px;
 }
-.job{margin-right: 8em;}h
+.job{margin-right: 8em;}
 select{
   background: #fff;
   width: 100%;
@@ -48,6 +48,7 @@ select{
   border-radius: 5px;
 }
 textarea{height: 5em;}
+.bin{text-align: center;}
 input[type="submit"]{
   background: #00a;
   border: none;
