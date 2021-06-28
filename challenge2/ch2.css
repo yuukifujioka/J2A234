@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background: url(wood.jpg) #504643 left top repeat;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+}
+li{
+    flex: 1 1 20px;
+}
